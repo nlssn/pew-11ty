@@ -1,0 +1,10 @@
+{
+  "site": {
+    "title": "My New Site"
+  },
+  "author": {
+    "name": "Johannes Nilsson",
+    "url": "https://nilsson.im",
+    "email": "johannes@nilsson.im"
+  }
+}
